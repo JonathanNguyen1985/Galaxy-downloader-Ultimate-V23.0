@@ -1,0 +1,3 @@
+anh em chạy phần cài đặt thư viện và nhớ trong mục tooll dowload của anh em phải có mục ffmpeg.exe
+anh em xem trong phần ảnh nhé (dowload.png) . lên gifhub tải thêm các mục ffmpeg để tooll có thể hoạt động được 
+chúc anh em vui vẻ
