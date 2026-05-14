@@ -2,7 +2,7 @@
 Galaxy Ultimate V23.0 is a professional video downloader optimized for ultra-lightweight performance, focusing on efficiency and user experience. The software supports batch scanning and high-speed downloading from multiple social media platforms.
 
 ✨ Key Features
-Vibe Downloader: Batch scan and download videos from Dailymotion, YouTube, Facebook, Instagram, and more.
+Vibe Downloader: Batch scan and download videos from YouTube, Facebook, Instagram, Tiktok.... and more.
 
 Smart Data Scanning: Supports importing link lists from .txt files or direct URL pasting.
 
